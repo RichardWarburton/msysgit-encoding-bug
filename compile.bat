@@ -1,3 +1,1 @@
-#!/bin/sh
-
 javac £.java
